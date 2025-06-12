@@ -1,0 +1,41 @@
+.house-bubble.gryffindor {
+  background: #ae0001;
+  color: #ffd700;
+  font-weight: bold;
+  border: 2px solid #ffd700;
+}
+
+.house-bubble.ravenclaw {
+  background: #222f5b;
+  color: #946b2d;
+  font-weight: bold;
+  border: 2px solid #946b2d;
+}
+
+.house-bubble.hufflepuff {
+  background: #f0c75e;
+  color: #372e29;
+  font-weight: bold;
+  border: 2px solid #372e29;
+}
+
+.house-bubble.slytherin {
+  background: #2a623d;
+  color: #aaaaaa;
+  font-weight: bold;
+  border: 2px solid #aaaaaa;
+}
+
+.winner-msg {
+  margin-top: 24px;
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 10px 0 0 0;
+  font-weight: bold;
+  border-radius: 12px;
+}
+
+.winner-msg.gryffindor { color: #ffd700; }
+.winner-msg.ravenclaw { color: #946b2d; }
+.winner-msg.hufflepuff { color: #372e29; }
+.winner-msg.slytherin { color: #aaaaaa; }
